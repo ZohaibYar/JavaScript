@@ -1,0 +1,316 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\super\\Desktop\\CFMIS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{95255204-FDFD-4BE1-910B-E0AA0D097896}|CaseManagement.njsproj|C:\\Users\\super\\Desktop\\CFMIS\\views\\view-cases.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{95255204-FDFD-4BE1-910B-E0AA0D097896}|CaseManagement.njsproj|solutionrelative:views\\view-cases.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95255204-FDFD-4BE1-910B-E0AA0D097896}|CaseManagement.njsproj|C:\\Users\\super\\Desktop\\CFMIS\\controllers\\caseController.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{95255204-FDFD-4BE1-910B-E0AA0D097896}|CaseManagement.njsproj|solutionrelative:controllers\\caseController.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95255204-FDFD-4BE1-910B-E0AA0D097896}|CaseManagement.njsproj|C:\\Users\\super\\Desktop\\CFMIS\\models\\Case.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{95255204-FDFD-4BE1-910B-E0AA0D097896}|CaseManagement.njsproj|solutionrelative:models\\Case.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95255204-FDFD-4BE1-910B-E0AA0D097896}|CaseManagement.njsproj|C:\\Users\\super\\Desktop\\CFMIS\\routes\\cases.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{95255204-FDFD-4BE1-910B-E0AA0D097896}|CaseManagement.njsproj|solutionrelative:routes\\cases.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95255204-FDFD-4BE1-910B-E0AA0D097896}|CaseManagement.njsproj|C:\\Users\\super\\Desktop\\CFMIS\\public\\js\\generate-report.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{95255204-FDFD-4BE1-910B-E0AA0D097896}|CaseManagement.njsproj|solutionrelative:public\\js\\generate-report.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95255204-FDFD-4BE1-910B-E0AA0D097896}|CaseManagement.njsproj|C:\\Users\\super\\Desktop\\CFMIS\\app.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{95255204-FDFD-4BE1-910B-E0AA0D097896}|CaseManagement.njsproj|solutionrelative:app.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95255204-FDFD-4BE1-910B-E0AA0D097896}|CaseManagement.njsproj|C:\\Users\\super\\Desktop\\CFMIS\\routes\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{95255204-FDFD-4BE1-910B-E0AA0D097896}|CaseManagement.njsproj|solutionrelative:routes\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95255204-FDFD-4BE1-910B-E0AA0D097896}|CaseManagement.njsproj|C:\\Users\\super\\Desktop\\CFMIS\\public\\js\\assign-date.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{95255204-FDFD-4BE1-910B-E0AA0D097896}|CaseManagement.njsproj|solutionrelative:public\\js\\assign-date.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95255204-FDFD-4BE1-910B-E0AA0D097896}|CaseManagement.njsproj|C:\\Users\\super\\Desktop\\CFMIS\\public\\js\\app.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{95255204-FDFD-4BE1-910B-E0AA0D097896}|CaseManagement.njsproj|solutionrelative:public\\js\\app.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95255204-FDFD-4BE1-910B-E0AA0D097896}|CaseManagement.njsproj|C:\\Users\\super\\Desktop\\CFMIS\\views\\assign-date.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{95255204-FDFD-4BE1-910B-E0AA0D097896}|CaseManagement.njsproj|solutionrelative:views\\assign-date.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95255204-FDFD-4BE1-910B-E0AA0D097896}|CaseManagement.njsproj|C:\\Users\\super\\Desktop\\CFMIS\\routes\\users.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{95255204-FDFD-4BE1-910B-E0AA0D097896}|CaseManagement.njsproj|solutionrelative:routes\\users.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95255204-FDFD-4BE1-910B-E0AA0D097896}|CaseManagement.njsproj|C:\\Users\\super\\Desktop\\CFMIS\\middleware\\auth.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{95255204-FDFD-4BE1-910B-E0AA0D097896}|CaseManagement.njsproj|solutionrelative:middleware\\auth.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95255204-FDFD-4BE1-910B-E0AA0D097896}|CaseManagement.njsproj|C:\\Users\\super\\Desktop\\CFMIS\\controllers\\userController.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{95255204-FDFD-4BE1-910B-E0AA0D097896}|CaseManagement.njsproj|solutionrelative:controllers\\userController.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95255204-FDFD-4BE1-910B-E0AA0D097896}|CaseManagement.njsproj|C:\\Users\\super\\Desktop\\CFMIS\\models\\User.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{95255204-FDFD-4BE1-910B-E0AA0D097896}|CaseManagement.njsproj|solutionrelative:models\\User.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95255204-FDFD-4BE1-910B-E0AA0D097896}|CaseManagement.njsproj|C:\\Users\\super\\Desktop\\CFMIS\\config\\database.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{95255204-FDFD-4BE1-910B-E0AA0D097896}|CaseManagement.njsproj|solutionrelative:config\\database.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95255204-FDFD-4BE1-910B-E0AA0D097896}|CaseManagement.njsproj|C:\\Users\\super\\Desktop\\CFMIS\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{95255204-FDFD-4BE1-910B-E0AA0D097896}|CaseManagement.njsproj|solutionrelative:package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 317,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "users.js",
+              "DocumentMoniker": "C:\\Users\\super\\Desktop\\CFMIS\\routes\\users.js",
+              "RelativeDocumentMoniker": "routes\\users.js",
+              "ToolTip": "C:\\Users\\super\\Desktop\\CFMIS\\routes\\users.js",
+              "RelativeToolTip": "routes\\users.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-04-15T11:11:15.647Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "view-cases.html",
+              "DocumentMoniker": "C:\\Users\\super\\Desktop\\CFMIS\\views\\view-cases.html",
+              "RelativeDocumentMoniker": "views\\view-cases.html",
+              "ToolTip": "C:\\Users\\super\\Desktop\\CFMIS\\views\\view-cases.html",
+              "RelativeToolTip": "views\\view-cases.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-04-15T15:39:14.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "generate-report.js",
+              "DocumentMoniker": "C:\\Users\\super\\Desktop\\CFMIS\\public\\js\\generate-report.js",
+              "RelativeDocumentMoniker": "public\\js\\generate-report.js",
+              "ToolTip": "C:\\Users\\super\\Desktop\\CFMIS\\public\\js\\generate-report.js",
+              "RelativeToolTip": "public\\js\\generate-report.js",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-04-15T15:33:03.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Case.js",
+              "DocumentMoniker": "C:\\Users\\super\\Desktop\\CFMIS\\models\\Case.js",
+              "RelativeDocumentMoniker": "models\\Case.js",
+              "ToolTip": "C:\\Users\\super\\Desktop\\CFMIS\\models\\Case.js",
+              "RelativeToolTip": "models\\Case.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-04-15T12:39:30.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "User.js",
+              "DocumentMoniker": "C:\\Users\\super\\Desktop\\CFMIS\\models\\User.js",
+              "RelativeDocumentMoniker": "models\\User.js",
+              "ToolTip": "C:\\Users\\super\\Desktop\\CFMIS\\models\\User.js",
+              "RelativeToolTip": "models\\User.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-04-15T12:39:50.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "cases.js",
+              "DocumentMoniker": "C:\\Users\\super\\Desktop\\CFMIS\\routes\\cases.js",
+              "RelativeDocumentMoniker": "routes\\cases.js",
+              "ToolTip": "C:\\Users\\super\\Desktop\\CFMIS\\routes\\cases.js",
+              "RelativeToolTip": "routes\\cases.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-04-15T12:40:27.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "index.js",
+              "DocumentMoniker": "C:\\Users\\super\\Desktop\\CFMIS\\routes\\index.js",
+              "RelativeDocumentMoniker": "routes\\index.js",
+              "ToolTip": "C:\\Users\\super\\Desktop\\CFMIS\\routes\\index.js",
+              "RelativeToolTip": "routes\\index.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-04-15T12:39:04.822Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "app.js",
+              "DocumentMoniker": "C:\\Users\\super\\Desktop\\CFMIS\\app.js",
+              "RelativeDocumentMoniker": "app.js",
+              "ToolTip": "C:\\Users\\super\\Desktop\\CFMIS\\app.js",
+              "RelativeToolTip": "app.js",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAkwFAAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-04-15T11:12:04.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "caseController.js",
+              "DocumentMoniker": "C:\\Users\\super\\Desktop\\CFMIS\\controllers\\caseController.js",
+              "RelativeDocumentMoniker": "controllers\\caseController.js",
+              "ToolTip": "C:\\Users\\super\\Desktop\\CFMIS\\controllers\\caseController.js",
+              "RelativeToolTip": "controllers\\caseController.js",
+              "ViewState": "AgIAAJEAAAAAAAAAAAAkwK4AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-04-15T11:11:26.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "assign-date.html",
+              "DocumentMoniker": "C:\\Users\\super\\Desktop\\CFMIS\\views\\assign-date.html",
+              "RelativeDocumentMoniker": "views\\assign-date.html",
+              "ToolTip": "C:\\Users\\super\\Desktop\\CFMIS\\views\\assign-date.html",
+              "RelativeToolTip": "views\\assign-date.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-04-15T15:09:41.969Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "app.js",
+              "DocumentMoniker": "C:\\Users\\super\\Desktop\\CFMIS\\public\\js\\app.js",
+              "RelativeDocumentMoniker": "public\\js\\app.js",
+              "ToolTip": "C:\\Users\\super\\Desktop\\CFMIS\\public\\js\\app.js",
+              "RelativeToolTip": "public\\js\\app.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-04-15T15:09:59.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "assign-date.js",
+              "DocumentMoniker": "C:\\Users\\super\\Desktop\\CFMIS\\public\\js\\assign-date.js",
+              "RelativeDocumentMoniker": "public\\js\\assign-date.js",
+              "ToolTip": "C:\\Users\\super\\Desktop\\CFMIS\\public\\js\\assign-date.js",
+              "RelativeToolTip": "public\\js\\assign-date.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-04-15T15:10:03.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "database.js",
+              "DocumentMoniker": "C:\\Users\\super\\Desktop\\CFMIS\\config\\database.js",
+              "RelativeDocumentMoniker": "config\\database.js",
+              "ToolTip": "C:\\Users\\super\\Desktop\\CFMIS\\config\\database.js",
+              "RelativeToolTip": "config\\database.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-04-15T11:04:33.383Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "userController.js",
+              "DocumentMoniker": "C:\\Users\\super\\Desktop\\CFMIS\\controllers\\userController.js",
+              "RelativeDocumentMoniker": "controllers\\userController.js",
+              "ToolTip": "C:\\Users\\super\\Desktop\\CFMIS\\controllers\\userController.js",
+              "RelativeToolTip": "controllers\\userController.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-04-13T07:57:46.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "auth.js",
+              "DocumentMoniker": "C:\\Users\\super\\Desktop\\CFMIS\\middleware\\auth.js",
+              "RelativeDocumentMoniker": "middleware\\auth.js",
+              "ToolTip": "C:\\Users\\super\\Desktop\\CFMIS\\middleware\\auth.js",
+              "RelativeToolTip": "middleware\\auth.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-04-13T07:59:01.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "package.json",
+              "DocumentMoniker": "C:\\Users\\super\\Desktop\\CFMIS\\package.json",
+              "RelativeDocumentMoniker": "package.json",
+              "ToolTip": "C:\\Users\\super\\Desktop\\CFMIS\\package.json",
+              "RelativeToolTip": "package.json",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-15T11:05:16.963Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 83,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

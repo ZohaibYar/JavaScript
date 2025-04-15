@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Register User</title>
+    <script defer src="/js/utils.js"></script>
+    <script defer src="/js/register-user.js"></script>
+    <link rel="stylesheet" href="/css/styles.css">
+</head>
+<body>
+    <div class="header-links">
+        <a href="/dashboard" class="button-link">Back to Dashboard</a>
+        <button onclick="logout()">Logout</button>
+    </div>
+    <h2>Register User</h2>
+    <form id="registerForm">
+        <label>Username:</label>
+        <input type="text" id="username" required>
+
+        <label>Password:</label>
+        <input type="password" id="password" required>
+
+        <label>Role:</label>
+        <select id="role">
+            <option value="admin">Admin</option>
+            <option value="clerk">Clerk</option>
+            <option value="registrar">Registrar</option>
+            <option value="judge">Judge</option>
+        </select>
+
+        <button type="submit">Register</button>
+    </form>
+
+    <p id="message"></p>
+
+    <h3 class="table-title">Registered Users</h3>
+    <table class="user-table" id="userTable">
+        <thead>
+            <tr>
+                <th>ID</th>
+                <th>Username</th>
+                <th>Role</th>
+            </tr>
+        </thead>
+        <tbody id="userTableBody"></tbody>
+    </table>
+</body>
+</html>

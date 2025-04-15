@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Registered Cases</title>
+    <script defer src="/js/utils.js"></script>
+    <script defer src="/js/view-cases.js"></script>
+    <link rel="stylesheet" href="/css/styles.css">
+</head>
+<body>
+    <div class="header-links">
+        <a href="/dashboard" class="button-link">Back to Dashboard</a>
+        <button onclick="logout()">Logout</button>
+        <a href="/api/cases/export/pdf" class="button-link">
+            <i class="fas fa-file-pdf"></i> Export to PDF
+        </a>
+    </div>
+    <h2>Registered Cases</h2>
+    <div id="caseList"></div>
+    <p id="message"></p>
+</body>
+</html>
