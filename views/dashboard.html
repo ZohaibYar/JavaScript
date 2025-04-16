@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Dashboard</title>
+    <script defer src="/js/utils.js"></script>
+    <script defer src="/js/dashboard.js"></script>
+    <link rel="stylesheet" href="/css/styles.css">
+</head>
+<body>
+    <div class="header-links">
+        <button onclick="logout()">Logout</button>
+    </div>
+    <h2>Welcome to the Dashboard</h2>
+    <div class="nav-container">
+        <ul style="list-style-type: none; padding: 0; margin: 0;">
+            <li class="nav-item">
+                <a class="button-link" href="/search-cases">Search Cases</a>
+            </li>
+        </ul>
+    </div>
+    <!-- Admin Section -->
+    <div id="adminSection" class="role-section hidden">
+        <h3>Admin Panel</h3>
+        <div class="horizontal-layout">
+            <div>
+                <p>Manage users and roles.</p>
+                <a href="/register-user" class="button-link">Register User</a>
+            </div>
+            <div>
+                <p>View case details</p>
+                <a href="/view-cases" class="button-link">View Registered Cases</a>
+            </div>
+            <div>
+                <p>Generate case reports</p>
+                <a href="/generate-report" class="button-link">Generate Case Reports</a>
+            </div>
+        </div>
+    </div>
+
+    <!-- Clerk Section -->
+    <div id="clerkSection" class="role-section hidden">
+        <h3>Clerk Panel</h3>
+        <div class="horizontal-layout">
+            <div>
+                <p>Register new cases, manage case details.</p>
+                <a href="/register-case" class="button-link">Case Management</a>
+            </div>
+            <div>
+                <p>Generate case reports</p>
+                <a href="/generate-report" class="button-link">Generate Case Reports</a>
+            </div>
+        </div>
+    </div>
+
+    <!-- Registrar Section -->
+    <div id="registrarSection" class="role-section hidden">
+        <h3>Registrar Panel</h3>
+        <div class="horizontal-layout">
+            <div>
+                <p>Assign dates to cases, manage case details.</p>
+                <a href="/assign-date" class="button-link">Case Management</a>
+            </div>
+            <div>
+                <p>Generate case reports</p>
+                <a href="/generate-report" class="button-link">Generate Case Reports</a>
+            </div>
+        </div>
+    </div>
+
+    <!-- Judge Section -->
+    <div id="judgeSection" class="role-section hidden">
+        <h3>Judge Panel</h3>
+        <div class="horizontal-layout">
+            <div>
+                <p>Update case stages, manage case details.</p>
+                <a href="/update-stage" class="button-link">Case Management</a>
+            </div>
+            <div>
+                <p>Generate case reports</p>
+                <a href="/generate-report" class="button-link">Generate Case Reports</a>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

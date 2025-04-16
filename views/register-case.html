@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Register Case</title>
+    <script defer src="/js/utils.js"></script>
+    <script defer src="/js/register-case.js"></script>
+    <link rel="stylesheet" href="/css/styles.css">
+</head>
+<body>
+    <div class="header-links">
+        <a href="/dashboard" class="button-link">Back to Dashboard</a>
+        <button onclick="logout()">Logout</button>
+    </div>
+    <h2>Register Case</h2>
+    <form id="caseForm">
+        <label>Case Title:</label>
+        <input type="text" id="title" required>
+
+        <label>Category:</label>
+        <select id="category">
+            <option value="civil">Civil</option>
+            <option value="criminal">Criminal</option>
+        </select>
+
+        <label>Subcategory:</label>
+        <select id="subcategory"></select>
+
+        <label>Case Filing Date:</label>
+        <input type="date" id="filingDate" required>
+
+        <button type="submit">Register Case</button>
+    </form>
+    <p id="message"></p>
+
+    <br />
+    <hr>
+    <h4>Registered Cases</h4>
+    <div id="caseList"></div><div id="caseList"></div>
+</body>
+</html>
