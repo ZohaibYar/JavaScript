@@ -1,6 +1,0 @@
-C:\Users\akila\source\repos\CaseManagement\obj\Debug\CaseManagement.njsproj.AssemblyReference.cache
-C:\Users\akila\source\repos\CaseManagement\obj\Debug\CaseManagement.njsproj.CoreCompileInputs.cache
-C:\Users\akila\source\repos\CaseManagement\bin\Microsoft.NodejsTools.WebRole.dll
-C:\Users\super\Desktop\CFMIS\obj\Debug\CaseManagement.njsproj.AssemblyReference.cache
-C:\Users\super\Desktop\CFMIS\obj\Debug\CaseManagement.njsproj.CoreCompileInputs.cache
-C:\Users\super\Desktop\CFMIS\bin\Microsoft.NodejsTools.WebRole.dll
